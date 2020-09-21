@@ -1,0 +1,7 @@
+C:\Users\green\source\repos\LR_4\bin\Debug\LR_4.exe.config
+C:\Users\green\source\repos\LR_4\bin\Debug\LR_4.exe
+C:\Users\green\source\repos\LR_4\bin\Debug\LR_4.pdb
+C:\Users\green\source\repos\LR_4\obj\Debug\LR_4.csprojAssemblyReference.cache
+C:\Users\green\source\repos\LR_4\obj\Debug\LR_4.csproj.CoreCompileInputs.cache
+C:\Users\green\source\repos\LR_4\obj\Debug\LR_4.exe
+C:\Users\green\source\repos\LR_4\obj\Debug\LR_4.pdb
